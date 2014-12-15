@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-Learning about repositories
+Learning about repositories;
+I have three hats
